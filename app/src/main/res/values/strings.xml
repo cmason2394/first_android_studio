@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_text1">Enter a number</string>
+    <string name="hint_text2">Enter a second number</string>
+    <string name="btn_text">ADD</string>
+    <string name="result_placeholder">Result</string>
+</resources>
